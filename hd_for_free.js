@@ -1,3 +1,5 @@
+// Copy this code and paste in console by clicking F12 inside your working GeoFS.
+
 (async () => {
     try {
         console.log("🌍 GeoFS → Esri World Imagery");
